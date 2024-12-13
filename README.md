@@ -1,3 +1,9 @@
+
+D-TECH GitHub Pages Tool
+
+The D-TECH GitHub Pages Tool allows you to easily create and deploy static websites on GitHub Pages. With a simple script, you can authenticate your GitHub account, create a new repository, upload your website files, and make your site live. Perfect for quickly setting up a public web presence with minimal effort.
+
+
 Installation Steps
 
 Run these commands one by one to set up everything you need:
