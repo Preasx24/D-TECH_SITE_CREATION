@@ -14,6 +14,8 @@ Run these commands one by one to set up everything you need:
 
 ```pkg install python-pip -y```
 
+```pip install requests```
+
 ```pip install shutil subprocess```
 
 
